@@ -1,18 +1,3 @@
-### Hi there 👋
-
-I am Yannick Godeau , a student at Digital Arts and Entertainment Game Development.
-
-my favorite domains in the game dev sector are Graphics Programming and AI in games but i also enjoy many aspects of gameplay and game design.
-
-Right now I am looking for a End of Study Intership in the game development sector, if your company has an opportunity for an intership you can contact my on my LinkedIn
-or on my E-mail : Yannick.godeau@student.howest.be 
-
-
-- 🌱 I’m currently learning about raytracing acceleration structures to use for my graduation work.
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/yannick-godeau-11b493253/" target="blank">
 Yannick Godeau</a></h1>
@@ -37,7 +22,6 @@ Yannick Godeau</a></h1>
 
 - 📫 How to reach me **saurabhchavan052@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
