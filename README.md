@@ -8,9 +8,9 @@ Yannick Godeau</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on a Group Project for a client 'MyMachine' for who we create a 3D game in Unity
+- 🔭 I recently graduated from Howest Digital arts and entertainment with specilization in Game Development
 
-- 🌱 I’m currently Researching raytracing acceleration structures.
+- 🌱 I’m currently starting a personal 2D project in Unity
 
 - 🤝 I’m available for Internships in the game development sector.
 
