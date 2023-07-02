@@ -12,11 +12,9 @@ Yannick Godeau</a></h1>
 
 - 🌱 I’m currently starting a personal 2D project in Unity
 
-- 🤝 I’m available for Internships in the game development sector.
+- 🤝 I’m available for jobs in the game development sector.
 
-- 🌱 I’m currently learning DirectX 12 && DXR 
-
-- 📫 How to reach me **Yannick.godeau@student.howest.be** or on my <a href="https://www.linkedin.com/in/yannick-godeau-11b493253/" target = "_blank">LinkedIn</a> 
+- 📫 How to reach me **Yannick130100@gmail.com** or on my <a href="https://www.linkedin.com/in/yannick-godeau-11b493253/" target = "_blank">LinkedIn</a> 
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
